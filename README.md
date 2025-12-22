@@ -3,7 +3,7 @@
 
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
 
-🎓 4th-year **Computer Science and Engineering** student at **Adama Science and Technology University (ASTU)**  
+🎓 5th-year **Computer Science and Engineering** student at **Adama Science and Technology University (ASTU)**  
 💡 Passionate about **competitive programming**, **web development**, and exploring the future of **AI**  
 ⚡ Always building, learning, and innovating  
 
