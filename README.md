@@ -58,15 +58,14 @@ I’m an **AI enthusiast** who loves solving complex coding challenges and turni
 - **LeetCode**: [leetcode.com/lencho](https://leetcode.com/u/Kaneh123_-/)  
 - **HackerRank**: [hackerrank.com/lencho](https://www.hackerrank.com/profile/lincholechisa42)  
 
----
-
 ## 📊 GitHub Stats
 
-![Lencho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lencho123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F9FF&icon_color=FFD700)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lencho123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F9FF)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lencho123&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F9FF&ring=00F9FF&fire=FFD700&currStreakLabel=FFD700)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lencho123&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lencho123&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lencho123&theme=tokyonight&hide_border=true)
+
 
 ## 📈 GitHub Activity Graph
 
