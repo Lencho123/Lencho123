@@ -60,11 +60,10 @@ I’m an **AI enthusiast** who loves solving complex coding challenges and turni
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lencho123&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=Lencho123)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lencho123)
+![Streak](https://streak-stats.demolab.com/?user=Lencho123)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lencho123&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lencho123&theme=tokyonight&hide_border=true)
 
 
 ## 📈 GitHub Activity Graph
