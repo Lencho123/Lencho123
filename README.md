@@ -64,8 +64,9 @@ I’m an **AI enthusiast** who loves solving complex coding challenges and turni
 ![Lencho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lencho123&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00F9FF&icon_color=FFD700&text_color=FFFFFF)
 
 <!-- Streak: total, current streak, longest streak -->
-## 📊 GitHub Activity Overview
-![Lencho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lencho123&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00F9FF&icon_color=FFD700&text_color=FFFFFF&include_all_commits=true&count_private=true)
+## 🔥 GitHub Contribution Streak
+![GitHub Streak](https://raw.githubusercontent.com/Lencho123/github-streak/main/streak.svg)
+
 
 <!-- Top languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lencho123&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00F9FF&text_color=FFFFFF)
