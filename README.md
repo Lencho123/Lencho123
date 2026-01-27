@@ -4,7 +4,7 @@
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
 
 🎓 5th-year **Computer Science and Engineering** student at **Adama Science and Technology University (ASTU)**  
-💡 **A2SV** (by Google) competitive programmer | Web developer | Building and exploring AI-powered solutions \n
+💡 **A2SV** (by Google) competitive programmer | Web developer | Building and exploring AI-powered solutions  
 ⚡ Always building, learning, and innovating  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lencho123&label=Profile%20Views&color=00F9FF&style=for-the-badge)
