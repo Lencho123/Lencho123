@@ -64,7 +64,7 @@ I’m an **AI enthusiast** who loves solving complex coding challenges and turni
 ![Lencho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lencho123&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00F9FF&icon_color=FFD700&text_color=FFFFFF)
 
 <!-- Streak: total, current streak, longest streak -->
-## 🔥 GitHub Contribution Streak
+# 🔥 GitHub Contribution Streak
 [![Lencho123's GitHub Streak](https://streak-stats.demolab.com/?user=Lencho123&theme=radical)](https://git.io/streak-stats)
 
 <!-- Top languages -->
