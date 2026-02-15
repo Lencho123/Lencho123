@@ -3,8 +3,8 @@
 
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
 
-🎓 5th-year **Computer Science and Engineering** student at **Adama Science and Technology University (ASTU)**  
-💡 **A2SV** (by Google) competitive programmer | Web developer | Building and exploring AI-powered solutions  
+🎓 **Computer Science and Engineering** student at **Adama Science and Technology University (ASTU)**  
+💡 **A2SV** (by Google) competitive programming | Web development | Building and exploring AI-powered solutions  
 ⚡ Always building, learning, and innovating  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lencho123&label=Profile%20Views&color=00F9FF&style=for-the-badge)
@@ -12,7 +12,7 @@
 ---
 
 ## 🌱 Currently Learning
-- **Advanced Go (Golang)** backend development  
+- **Advanced Go (Golang), Express.js** backend development  
 - **AI & Machine Learning** foundations  
 - **Competitive programming** problem-solving strategies  
 
@@ -21,7 +21,6 @@
 ## 💬 Ask Me About
 - **JavaScript**, **React**, **TailwindCSS**  
 - **Go (Golang)**, **Python**  
-- Competitive programming & algorithm optimization  
 
 ---
 
