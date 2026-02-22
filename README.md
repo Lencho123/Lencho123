@@ -77,6 +77,5 @@ I’m an **AI enthusiast** who loves solving complex coding challenges and turni
 
 
 ## 🔥 Contribution Summary
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lencho123&theme=github_dark)
-
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lencho123&theme=github_dark&v=2)
 ---
