@@ -11,10 +11,10 @@
 
 ---
 
-## 🌱 Currently Learning
-- **Advanced Go (Golang), Express.js** backend development  
-- **AI & Machine Learning** foundations  
-- **Competitive programming** problem-solving strategies  
+## 🌱 Currently On
+- **Advanced Go (Golang), Express.js** 
+- **AI & Machine Learning -here python shines**
+- **Competitive programming**
 
 ---
 
