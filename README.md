@@ -1,5 +1,7 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Lencho+Lachisa;Competitive+Programmer;AI+Enthusiast;Web+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+<h2 align="center">Hey! This is Lencho</h2>
+<p align="center">
+Competitive Programmer | LLM Developer | Web Developer 
+</p>
 
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
 
