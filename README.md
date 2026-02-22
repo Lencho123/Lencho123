@@ -75,7 +75,4 @@ I’m an **AI enthusiast** who loves solving complex coding challenges and turni
 
 [![Lencho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lencho123&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F9FF&line=FFD700&point=00F9FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-## 🔥 Contribution Summary
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lencho123&theme=github_dark&v=2)
 ---
