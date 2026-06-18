@@ -1,6 +1,6 @@
 <h2 align="center">Hey! This is Lencho</h2>
 <p align="center">
-Competitive Programmer | LLM Developer | Web Developer 
+Software Engineer | LLM Developer | Web Developer 
 </p>
 
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
