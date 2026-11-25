@@ -5,7 +5,8 @@ Software Engineer | LLM Developer | Web Developer
 
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
 
-🎓 **Computer Science and Engineering** student at **Adama Science and Technology University (ASTU)**  
+🎓 **Software developer and AI Engineer** at **Ethiopian Artificial Intelligence Institute (EAII)**
+🎓 **Computer Science and Engineering** graduate from **Adama Science and Technology University (ASTU)**
 💡 **A2SV** (by Google) competitive programming | Web development | Building and exploring AI-powered solutions  
 ⚡ Always building, learning, and innovating  
 
