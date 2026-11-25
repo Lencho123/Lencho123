@@ -5,10 +5,10 @@ Software Engineer | LLM Developer | Web Developer
 
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
 
-🎓 **Software developer and AI Engineer** at **Ethiopian Artificial Intelligence Institute (EAII)**
-🎓 **Computer Science and Engineering** graduate from **Adama Science and Technology University (ASTU)**
-💡 **A2SV** (by Google) competitive programming | Web development | Building and exploring AI-powered solutions  
-⚡ Always building, learning, and innovating  
+🎓 **Software developer and AI Engineer** at **Ethiopian Artificial Intelligence Institute (EAII)** \n
+🎓 **Computer Science and Engineering** graduate from **Adama Science and Technology University (ASTU)** \n
+💡 **A2SV** (by Google) competitive programming | Web development | Building and exploring AI-powered solutions  \n 
+⚡ Always building, learning, and innovating  \n
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lencho123&label=Profile%20Views&color=00F9FF&style=for-the-badge)
 
